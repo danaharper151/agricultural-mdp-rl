@@ -195,12 +195,12 @@ The notebook is organized into parts:
 
 ### Exploration Strategy Results
 
-![Comprehensive Dashboard](results/comprehensive_dashboard.png)
+![Comprehensive Dashboard](results/dashboard.png)
 *6-panel parameter tuning dashboard showing discount factor, learning rate, exploration strategy, and reward sensitivity analysis.*
 
 ### Statistical Validation
 
-![Statistical Analysis](results/statistical_analysis.png)
+![Statistical Analysis](results/stats.png)
 *Confidence intervals, hypothesis testing, and effect size analysis validating experimental claims.*
 
 ### Key Metrics
