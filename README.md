@@ -195,12 +195,12 @@ The notebook is organized into parts:
 
 ### Exploration Strategy Results
 
-![Comprehensive Dashboard](results/comprehensive_dashboard.png)
+![Comprehensive Dashboard](results/dashboard.png)
 *6-panel parameter tuning dashboard showing discount factor, learning rate, exploration strategy, and reward sensitivity analysis.*
 
 ### Statistical Validation
 
-![Statistical Analysis](results/statistical_analysis.png)
+![Statistical Analysis](results/stats.png)
 *Confidence intervals, hypothesis testing, and effect size analysis validating experimental claims.*
 
 ### Key Metrics
@@ -241,10 +241,9 @@ agricultural-mdp-rl/
 ├── Agricultural_MDP_Complete.ipynb     # Complete implementation notebook
 │
 ├── results/                            # Experimental results and visualizations
-│   ├── comprehensive_dashboard.png     # 6-panel parameter tuning dashboard
-│   ├── statistical_analysis.png        # Statistical validation plots
-│   ├── learning_curves.png             # Training progress visualization
-│   └── policy_heatmap.png              # Optimal policy visualization
+│   ├── dashboard.png     # 6-panel parameter tuning dashboard
+│   ├── stats.png        # Statistical validation plots
+│   
 │
 └── docs/                               # Additional documentation
     └── final_report.pdf                # Complete project report
