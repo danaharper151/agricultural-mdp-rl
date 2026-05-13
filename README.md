@@ -241,10 +241,9 @@ agricultural-mdp-rl/
 ├── Agricultural_MDP_Complete.ipynb     # Complete implementation notebook
 │
 ├── results/                            # Experimental results and visualizations
-│   ├── comprehensive_dashboard.png     # 6-panel parameter tuning dashboard
-│   ├── statistical_analysis.png        # Statistical validation plots
-│   ├── learning_curves.png             # Training progress visualization
-│   └── policy_heatmap.png              # Optimal policy visualization
+│   ├── dashboard.png     # 6-panel parameter tuning dashboard
+│   ├── stats.png        # Statistical validation plots
+│   
 │
 └── docs/                               # Additional documentation
     └── final_report.pdf                # Complete project report
